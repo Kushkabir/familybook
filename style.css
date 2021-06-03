@@ -1,0 +1,20 @@
+body{
+  text-align:center;
+}
+#first{ 
+  word-spacing: 10px;
+  font-variant: small-caps; 
+  text-align: center;
+  font-size: 80px;
+}
+#reasontext{ 
+  font-size:50px;
+}
+#album {
+  border-style:solid;
+  border-color:#00B0FF;
+  border-radius: 30px;
+  padding: 5px;
+  width: 350px;
+  height:350px;
+}
